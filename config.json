@@ -59,5 +59,26 @@
         }
       ]
     }
+    ,
+    {
+      "id": "fastapi-rest-apis",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Design and implement a RESTful API using FastAPI.",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2026-01-28",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "text"
+        }
+      ]
+    }
   ]
 }
+
